@@ -36,8 +36,6 @@ static/		# Static files (Like fonts, images)
 ### Used Frameworks
 - Bootstrap and depended javascript frameworks like jquery. (Client)
 - Babel.js for ES6 compile
-- Sass for CSS
-- Pug for HTML template
 
 Also, this project is supporting hot reload and include **eslint**
 
